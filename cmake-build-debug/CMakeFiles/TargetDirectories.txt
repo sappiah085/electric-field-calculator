@@ -1,0 +1,3 @@
+/Users/realmann/Desktop/electricfield/cmake-build-debug/CMakeFiles/electricfield.dir
+/Users/realmann/Desktop/electricfield/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/realmann/Desktop/electricfield/cmake-build-debug/CMakeFiles/rebuild_cache.dir
